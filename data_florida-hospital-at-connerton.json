@@ -1,0 +1,52 @@
+{
+    "provider_name": "AdventHealth Connerton",
+    "provider_address": "9441 Health Center DriveLand O'lakes, FL, 34637",
+    "services": [
+        {
+            "service_name": "Emergency Critical Care, Each Additional 30 Minutes",
+            "cash_price": "$2,743.90",
+            "insurrance_plans": [
+                {
+                    "ins_name": "AH Care Advantage MDCR HMO",
+                    "ins_cash": "$112.62"
+                },
+                {
+                    "ins_name": "BC MDCR Adv HMO",
+                    "ins_cash": "$114.87"
+                },
+                {
+                    "ins_name": "BC MDCR Adv PPO",
+                    "ins_cash": "$114.87"
+                },
+                {
+                    "ins_name": "Beech Street PPO",
+                    "ins_cash": "$1,972.19"
+                },
+                {
+                    "ins_name": "First Health PPO",
+                    "ins_cash": "$1,624.15"
+                },
+                {
+                    "ins_name": "Multiplan PPO",
+                    "ins_cash": "$1,716.96"
+                },
+                {
+                    "ins_name": "Private Healthcare Systems",
+                    "ins_cash": "$1,740.16"
+                },
+                {
+                    "ins_name": "UPMC Health Plan HMO/PPO",
+                    "ins_cash": "$1,508.14"
+                },
+                {
+                    "ins_name": "United Healthcare MDCR PPO Dual Complete",
+                    "ins_cash": "$118.25"
+                },
+                {
+                    "ins_name": "United Healthcare Medicare Solutions MDCR HMO/PPO",
+                    "ins_cash": "$118.25"
+                }
+            ]
+        }
+    ]
+}
